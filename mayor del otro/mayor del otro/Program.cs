@@ -29,6 +29,8 @@ namespace mayor_del_otro
             {
                 Console.WriteLine("Todos son iguales");
             }
+            
+            Console.ReadKey();
         }
     }
 }
