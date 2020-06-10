@@ -30,6 +30,8 @@ namespace verificador_de_vocal_o_numero_entre_otro
             {
                 Console.WriteLine("Esto es una constante");
             }
+            
+            Console.ReadKey();
         }
     }
 }
