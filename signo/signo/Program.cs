@@ -29,6 +29,8 @@ namespace signo
             {
                 Console.WriteLine("Esto es un caracter");
             }
+            
+            Console.ReadKey();
         }
     }
 }
