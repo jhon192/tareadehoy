@@ -16,6 +16,8 @@ namespace parde23o7
                 num = num - 2;
             }
             
+            Console.ReadKey();
+            
         }
     }
 }
