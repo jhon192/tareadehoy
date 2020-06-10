@@ -1,0 +1,5 @@
+C:\Users\jjjho\RiderProjects\signo\signo\bin\Debug\signo.exe
+C:\Users\jjjho\RiderProjects\signo\signo\bin\Debug\signo.pdb
+C:\Users\jjjho\RiderProjects\signo\signo\obj\Debug\signo.csprojResolveAssemblyReference.cache
+C:\Users\jjjho\RiderProjects\signo\signo\obj\Debug\signo.exe
+C:\Users\jjjho\RiderProjects\signo\signo\obj\Debug\signo.pdb

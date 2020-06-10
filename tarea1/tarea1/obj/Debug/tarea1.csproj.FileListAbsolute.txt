@@ -1,0 +1,5 @@
+C:\Users\jjjho\RiderProjects\tarea1\tarea1\bin\Debug\tarea1.exe
+C:\Users\jjjho\RiderProjects\tarea1\tarea1\bin\Debug\tarea1.pdb
+C:\Users\jjjho\RiderProjects\tarea1\tarea1\obj\Debug\tarea1.csprojResolveAssemblyReference.cache
+C:\Users\jjjho\RiderProjects\tarea1\tarea1\obj\Debug\tarea1.exe
+C:\Users\jjjho\RiderProjects\tarea1\tarea1\obj\Debug\tarea1.pdb

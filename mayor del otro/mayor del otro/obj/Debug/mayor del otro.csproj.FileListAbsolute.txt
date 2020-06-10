@@ -1,0 +1,5 @@
+C:\Users\jjjho\RiderProjects\mayor del otro\mayor del otro\bin\Debug\mayor_del_otro.exe
+C:\Users\jjjho\RiderProjects\mayor del otro\mayor del otro\bin\Debug\mayor_del_otro.pdb
+C:\Users\jjjho\RiderProjects\mayor del otro\mayor del otro\obj\Debug\mayor del otro.csprojResolveAssemblyReference.cache
+C:\Users\jjjho\RiderProjects\mayor del otro\mayor del otro\obj\Debug\mayor_del_otro.exe
+C:\Users\jjjho\RiderProjects\mayor del otro\mayor del otro\obj\Debug\mayor_del_otro.pdb

@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "parde23o7", "parde23o7\parde23o7.csproj", "{94449080-47D0-4A71-B5EE-63D381CE4FA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94449080-47D0-4A71-B5EE-63D381CE4FA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94449080-47D0-4A71-B5EE-63D381CE4FA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94449080-47D0-4A71-B5EE-63D381CE4FA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94449080-47D0-4A71-B5EE-63D381CE4FA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

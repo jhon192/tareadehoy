@@ -1,0 +1,5 @@
+C:\Users\jjjho\RiderProjects\parde23o7\parde23o7\bin\Debug\parde23o7.exe
+C:\Users\jjjho\RiderProjects\parde23o7\parde23o7\bin\Debug\parde23o7.pdb
+C:\Users\jjjho\RiderProjects\parde23o7\parde23o7\obj\Debug\parde23o7.csprojResolveAssemblyReference.cache
+C:\Users\jjjho\RiderProjects\parde23o7\parde23o7\obj\Debug\parde23o7.exe
+C:\Users\jjjho\RiderProjects\parde23o7\parde23o7\obj\Debug\parde23o7.pdb

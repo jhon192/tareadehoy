@@ -1,0 +1,5 @@
+C:\Users\jjjho\RiderProjects\verificador de vocal o numero entre otro\verificador de vocal o numero entre otro\bin\Debug\verificador_de_vocal_o_numero_entre_otro.exe
+C:\Users\jjjho\RiderProjects\verificador de vocal o numero entre otro\verificador de vocal o numero entre otro\bin\Debug\verificador_de_vocal_o_numero_entre_otro.pdb
+C:\Users\jjjho\RiderProjects\verificador de vocal o numero entre otro\verificador de vocal o numero entre otro\obj\Debug\verificador de vocal o numero entre otro.csprojResolveAssemblyReference.cache
+C:\Users\jjjho\RiderProjects\verificador de vocal o numero entre otro\verificador de vocal o numero entre otro\obj\Debug\verificador_de_vocal_o_numero_entre_otro.exe
+C:\Users\jjjho\RiderProjects\verificador de vocal o numero entre otro\verificador de vocal o numero entre otro\obj\Debug\verificador_de_vocal_o_numero_entre_otro.pdb
