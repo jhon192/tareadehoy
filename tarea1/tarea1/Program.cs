@@ -29,6 +29,8 @@ namespace tarea1
             {
                 Console.WriteLine("Este Numero tiene un valor de Cero"); //Esto es opcional
             }
+            
+            Console.ReadKey();
         }
     }
 }
